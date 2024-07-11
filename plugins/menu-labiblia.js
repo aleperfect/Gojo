@@ -24,7 +24,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `*[❗] Los comandos +1
  ┃➤
  ┃➤    𝗛ola, ${taguser}
  ┃➤
- ┃➤ Nᴜᴍᴇʀᴏ wa.me/51992621601
+ ┃➤ Nᴜᴍᴇʀᴏ wa.me/+524642065416
  ┃➤ Fᴇᴄʜᴀ : ${date}
  ╰━━━━━━━━━━━━━
 

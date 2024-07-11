@@ -14,11 +14,10 @@ const handler = async (m, {conn, usedPrefix, command}) => {
 *┃ 𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝙰𝙿𝙾𝚈𝙰𝚁 :𝟹*
 *┃*
 *┃ ➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: 𝗚𝗼𝗷𝗼̄𝗕𝗼𝘁* 
-*┃ ➤ 𝙿𝙰𝚈𝙿𝙰𝙻: https://www.paypal.me/aleizn*
 *┃*
 *┃ 👉🏻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*
 *┃ 𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*
-*┃ wa.me/51992621601*
+*┃ wa.me/+524642065416*
 *┗ ┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
 `.trim();
   const aa = {quoted: m, userJid: conn.user.jid};

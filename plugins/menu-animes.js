@@ -23,7 +23,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ┃➤
  ┃➤    𝗛ola, ${taguser}
  ┃➤
- ┃➤ Nᴜᴍᴇʀᴏ wa.me/51992621601
+ ┃➤ Nᴜᴍᴇʀᴏ wa.me/+524642065416
  ┃➤ Fᴇᴄʜᴀ : ${date}
  ╰━━━━━━━━━━━━━
 

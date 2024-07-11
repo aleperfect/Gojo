@@ -27,8 +27,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ┃➤    𝗛ola, ${taguser}
  ┃➤
  ┃➤ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : 𝗚𝗼𝗷𝗼̄𝗕𝗼𝘁 ❄
- ┃➤ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : https://www.instagram.com/ale.izn_20/
- ┃➤ Nᴜᴍᴇʀᴏ wa.me/51992621601
+ ┃➤ Nᴜᴍᴇʀᴏ wa.me/+524642065416
  ┃➤ Fᴇᴄʜᴀ : ${date}
  ╰━━━━━━━━━━━━━
   
