@@ -24,7 +24,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *𝑩𝒐𝒕𝒄𝒊𝒕𝒐 𝑪𝒂𝒈𝒂 𝑯𝒊𝒆𝒍𝒐*
+╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *𝗚𝗼𝗷𝗼̄𝗕𝗼𝘁*
 ╠➥ [#️⃣] 𝙽𝚄𝙼𝙴𝚁𝙾: *+51992621601*
 ╠➥ [🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: *${usedPrefix}*
 ╠➥ [🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: *${chats.length - groups.length}*
@@ -43,7 +43,7 @@ const handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [👨‍🦯] 𝚅𝙴𝙻𝙾𝙲𝙸𝙳𝙰𝙳: 
 ╠  *${speed} ms* 
 ╠
-╠ 𝑩𝒐𝒕𝒄𝒊𝒕𝒐 𝑪𝒂𝒈𝒂 𝑯𝒊𝒆𝒍𝒐
+╠ 𝗚𝗼𝗷𝗼̄𝗕𝗼𝘁
 `.trim();
   const doc = [
     "pdf",
